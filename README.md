@@ -7,5 +7,7 @@ and the game begins!
 
 Credits : App Brewery - Angela - 100 days of python
 
+Implementation done using Turtle graphics.
+
 Thanks
 Aakash
